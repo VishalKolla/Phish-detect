@@ -3,6 +3,7 @@ dnspython==2.6.1
 joblib==1.2.0
 matplotlib==3.8.0
 nostril==1.2.0
+nostril @ git+https://github.com/casics/nostril.git
 numpy==1.26.4
 pandas==1.5.3
 python_Levenshtein==0.25.0
