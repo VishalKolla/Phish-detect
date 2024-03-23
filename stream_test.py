@@ -20,7 +20,7 @@ import seaborn as sns
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 
-key = 'soo4s08gowcc8oc88wskowkcoocws8ssk4sk0g00'
+key = ""
 
 import signal
 
